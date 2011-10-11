@@ -1,6 +1,7 @@
 public class Teste
 {
 	private String nome;
+	private String sobrenome;
 
 	public static void main(String[] args)
 	{
