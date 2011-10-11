@@ -2,6 +2,7 @@ public class Teste
 {
 	private String nome;
 	private String sobrenome;
+	private int idade;
 
 	public static void main(String[] args)
 	{
